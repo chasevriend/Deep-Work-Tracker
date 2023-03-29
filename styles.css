@@ -1,0 +1,17 @@
+body {
+    background-color: #d3d6db;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.newMonth {
+    background-color: #3a4750;
+    
+}
